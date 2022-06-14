@@ -7,8 +7,7 @@ How to run APT-GET (as an example for CRONO benchmarks)
 2) You should create a "results" folder besides the other folders.
 3) You need to set the required PATHs in "run-CRONO-benchmarks.sh".
 4) You can get CRONO benchmark suite fro "https://github.com/masabahmad/CRONO" and set the path to its "app" folder.
-5) You can get the input graphs from SNAP website: "http://snap.stanford.edu/data/web-Google.html".
-6) You can get the other benchmarks in the paper from "https://github.com/SamAinsworth/reproduce-cgo2017-paper/tree/master/program"
+5) You can get the input graphs from SNAP website: "http://snap.stanford.edu/data/web-Google.html". (You can get the other benchmarks in the paper from "https://github.com/SamAinsworth/reproduce-cgo2017-paper/tree/master/program".)
 7) run "./scripts/run-CRONO-benchmarks.sh".
 ## APT-GET Paper link
 Here is the link to the paper: https://dl.acm.org/doi/abs/10.1145/3492321.3519583
