@@ -11,7 +11,8 @@ How to run APT-GET (as an example for CRONO benchmarks)
 7) run "./scripts/run-CRONO-benchmarks.sh".
 ## APT-GET Paper link
 Here is the link to the paper: https://dl.acm.org/doi/abs/10.1145/3492321.3519583
-## Please cite the following paper if you use our proposed technique:
+## Please cite APT-GET Paper if you use our proposed technique:
+```
 @inproceedings{jamilan2022apt,
   title={APT-GET: profile-guided timely software prefetching},
   author={Jamilan, Saba and Khan, Tanvir Ahmed and Ayers, Grant and Kasikci, Baris and Litz, Heiner},
@@ -19,3 +20,4 @@ Here is the link to the paper: https://dl.acm.org/doi/abs/10.1145/3492321.351958
   pages={747--764},
   year={2022}
 }
+```
